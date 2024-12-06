@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
