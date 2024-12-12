@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0066-plus-one) |
+| [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
