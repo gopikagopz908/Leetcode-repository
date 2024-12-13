@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0043-multiply-strings) |
 | [0389-find-the-difference](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0066-plus-one) |
+| [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Recursion
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
