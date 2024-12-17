@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0941-sort-array-by-parity](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0941-sort-array-by-parity](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
