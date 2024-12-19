@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2608-count-the-digits-that-divide-a-number) |
