@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0409-longest-palindrome) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
