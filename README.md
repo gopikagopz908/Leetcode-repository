@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0434-number-of-segments-in-a-string) |
+| [0742-to-lower-case](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0742-to-lower-case) |
 ## Bit Manipulation
 |  |
 | ------- |
