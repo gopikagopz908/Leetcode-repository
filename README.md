@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2083-three-divisors) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
@@ -104,8 +105,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
