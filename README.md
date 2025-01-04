@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2083-three-divisors) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2491-smallest-even-multiple) |
