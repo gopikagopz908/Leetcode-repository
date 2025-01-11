@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0349-intersection-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0409-longest-palindrome) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
