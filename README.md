@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2058-concatenation-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2634-minimum-common-value) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0742-to-lower-case) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
