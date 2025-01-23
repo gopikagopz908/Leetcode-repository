@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2634-minimum-common-value) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0409-longest-palindrome) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2235-capitalize-the-title) |
+| [2502-sort-the-people](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
+| [2502-sort-the-people](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
