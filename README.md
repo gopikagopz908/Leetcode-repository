@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2083-three-divisors) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2507-number-of-common-factors) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
