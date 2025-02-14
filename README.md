@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1806-count-of-matches-in-tournament](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
+| [1806-count-of-matches-in-tournament](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2274-keep-multiplying-found-values-by-two) |
