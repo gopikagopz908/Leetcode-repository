@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2235-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2502-sort-the-people) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2634-minimum-common-value) |
 ## Brainteaser
