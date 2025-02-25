@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0151-reverse-words-in-a-string) |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
