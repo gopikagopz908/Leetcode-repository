@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
