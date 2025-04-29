@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0812-rotate-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1797-goal-parser-interpretation) |
+| [1894-merge-strings-alternately](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2634-minimum-common-value) |
