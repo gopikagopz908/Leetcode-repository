@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1031-add-to-array-form-of-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1031-add-to-array-form-of-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2106-find-greatest-common-divisor-of-array) |
