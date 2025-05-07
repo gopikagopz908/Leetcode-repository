@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1505-create-target-array-in-the-given-order](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1505-create-target-array-in-the-given-order) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gopikagopz908/Leetcode-repository/tree/master/0415-add-strings) |
+| [1505-create-target-array-in-the-given-order](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/gopikagopz908/Leetcode-repository/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gopikagopz908/Leetcode-repository/tree/master/2137-final-value-of-variable-after-performing-operations) |
